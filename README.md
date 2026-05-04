@@ -19,6 +19,7 @@ My notes and exercises while learning Go, organized by topic. Each folder is a r
 | `9.exercises/` | Short exercises by topic |
 | └─ `1.walrus_operator/` | Using `:=` |
 | └─ `2.escape_sequences/` | Escape sequences (`\n`, `\t`) and `fmt.Sprintf` |
+| └─ `3.types/` | Recap: custom type + explicit conversion |
 
 ## How to run an example
 
