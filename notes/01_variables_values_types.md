@@ -17,7 +17,7 @@
 |---|---|---|
 | `( )` | parentheses | paréntesis |
 | `{ }` | braces / curly braces | llaves |
-| `[ ]` | square brackets | corchetes |
+| `[  ]` | square brackets | corchetes |
 
 ## Scope
 
@@ -108,7 +108,7 @@ Yes — there is a language we use to talk about the language (statement, expres
 |---|---|
 | `( )` | paréntesis |
 | `{ }` | llaves |
-| `[ ]` | corchetes |
+| `[  ]` | corchetes |
 
 ## Scope
 
