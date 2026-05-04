@@ -29,3 +29,7 @@ go.work.sum
 .vscode/
 *.swp
 *~
+
+# Claude Code local settings (private, per-machine)
+.claude/
+!CLAUDE.md
