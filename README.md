@@ -20,6 +20,8 @@ My notes and exercises while learning Go, organized by topic. Each folder is a r
 | └─ `1.walrus_operator/` | Using `:=` |
 | └─ `2.escape_sequences/` | Escape sequences (`\n`, `\t`) and `fmt.Sprintf` |
 | └─ `3.types/` | Recap: custom type + explicit conversion |
+| `10.booleans/` | Comparison operators that return `bool` |
+| `11.number_types/` | Numeric types, compile-time overflow, and the `runtime` package |
 
 ## How to run an example
 

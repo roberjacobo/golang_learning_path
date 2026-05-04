@@ -20,6 +20,8 @@ Mis notas y ejercicios mientras aprendo Go, organizados por tema. Cada carpeta e
 | └─ `1.walrus_operator/` | Uso de `:=` |
 | └─ `2.escape_sequences/` | Secuencias de escape (`\n`, `\t`) y `fmt.Sprintf` |
 | └─ `3.types/` | Repaso: tipo propio + conversión explícita |
+| `10.booleans/` | Operadores de comparación que devuelven `bool` |
+| `11.number_types/` | Tipos numéricos, overflow en compilación y paquete `runtime` |
 
 ## Cómo correr un ejemplo
 

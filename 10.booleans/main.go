@@ -4,7 +4,8 @@ import (
 	"fmt"
 )
 
-// var x bool
+// Comparison operators (==, !=, <, >, <=, >=) always return a bool.
+// Los operadores de comparación (==, !=, <, >, <=, >=) siempre devuelven un bool.
 
 func main() {
 	x := 7
