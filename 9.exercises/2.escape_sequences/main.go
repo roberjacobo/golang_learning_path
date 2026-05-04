@@ -20,4 +20,11 @@ func main() {
 	fmt.Printf("%T\n", x)
 	fmt.Printf("%T\n", y)
 	fmt.Printf("%T\n", z)
+
+	x = 42
+	y = "James Bond"
+	z = true
+
+	s := fmt.Sprintf("%v\t%v\t%v", x, y, z)
+	fmt.Println(s)
 }
