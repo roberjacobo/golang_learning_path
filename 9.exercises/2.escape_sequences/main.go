@@ -25,6 +25,8 @@ func main() {
 	y = "James Bond"
 	z = true
 
+	// \t puts a tab between values; Sprintf builds the string instead of printing it.
+	// \t pone un tab entre valores; Sprintf arma el string en lugar de imprimirlo.
 	s := fmt.Sprintf("%v\t%v\t%v", x, y, z)
 	fmt.Println(s)
 }

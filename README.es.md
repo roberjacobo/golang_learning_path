@@ -18,7 +18,7 @@ Mis notas y ejercicios mientras aprendo Go, organizados por tema. Cada carpeta e
 | `8.conversions/` | Conversión explícita entre tipos (`int(b)`) |
 | `9.exercises/` | Ejercicios cortos por tema |
 | └─ `1.walrus_operator/` | Uso de `:=` |
-| └─ `2.escape_sequences/` | Secuencias de escape (`\n`, `\t`, etc.) |
+| └─ `2.escape_sequences/` | Secuencias de escape (`\n`, `\t`) y `fmt.Sprintf` |
 
 ## Cómo correr un ejemplo
 

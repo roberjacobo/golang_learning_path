@@ -18,7 +18,7 @@ My notes and exercises while learning Go, organized by topic. Each folder is a r
 | `8.conversions/` | Explicit type conversion (`int(b)`) |
 | `9.exercises/` | Short exercises by topic |
 | └─ `1.walrus_operator/` | Using `:=` |
-| └─ `2.escape_sequences/` | Escape sequences (`\n`, `\t`, etc.) |
+| └─ `2.escape_sequences/` | Escape sequences (`\n`, `\t`) and `fmt.Sprintf` |
 
 ## How to run an example
 
