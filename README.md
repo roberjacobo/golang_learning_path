@@ -22,6 +22,7 @@ My notes and exercises while learning Go, organized by topic. Each folder is a r
 | └─ `3.types/` | Recap: custom type + explicit conversion |
 | `10.booleans/` | Comparison operators that return `bool` |
 | `11.number_types/` | Numeric types, compile-time overflow, and the `runtime` package |
+| `12.strings/` | Strings: interpreted (`"…"`) vs raw (`` `…` ``) literals, and conversion to `[]byte` |
 
 ## How to run an example
 

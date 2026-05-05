@@ -22,6 +22,7 @@ Mis notas y ejercicios mientras aprendo Go, organizados por tema. Cada carpeta e
 | └─ `3.types/` | Repaso: tipo propio + conversión explícita |
 | `10.booleans/` | Operadores de comparación que devuelven `bool` |
 | `11.number_types/` | Tipos numéricos, overflow en compilación y paquete `runtime` |
+| `12.strings/` | Strings: literales interpretados (`"…"`) vs raw (`` `…` ``), y conversión a `[]byte` |
 
 ## Cómo correr un ejemplo
 
